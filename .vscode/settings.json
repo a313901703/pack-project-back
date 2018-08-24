@@ -1,0 +1,7 @@
+{
+    //"extensions.ignoreRecommendations": true,
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,    
+    "editor.wordWrap": "on" ,
+    "php.suggest.basic":false,
+}
